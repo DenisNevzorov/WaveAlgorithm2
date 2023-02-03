@@ -37,8 +37,8 @@ namespace TestProject
             Assert.AreEqual(true, actual);
         }
     }
-        public class Test2
-        {
+    public class Test2
+    {
         LeeAlgorithm tras;
 
         [SetUp]
@@ -51,11 +51,11 @@ namespace TestProject
                 {
                     if (i == 0 || j == 0 || i == 12 - 1 || j == 12 - 1)
                     {
-                        a[i,j] = -4;
+                        a[i, j] = -4;
                     }
                     else
                     {
-                        a[i,j] = -1;
+                        a[i, j] = -1;
                     }
                 }
             }

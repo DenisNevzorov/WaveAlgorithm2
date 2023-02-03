@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Приложуха\Приложуха.csproj" />
+    <ProjectReference Include="..\Приложуха.csproj" />
   </ItemGroup>
 
 </Project>
